@@ -1,14 +1,4 @@
 <h3 align="center">Hey you!</h3>
-- uses: Platane/snk@v2
-  with:
-    github_user_name: ${{ github.repository_bordinn }}
-
-              
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
